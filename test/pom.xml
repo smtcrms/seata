@@ -29,7 +29,7 @@
 
     <properties>
         <mysql-connector-java.version>5.1.35</mysql-connector-java.version>
-        <zookeeper.version>3.4.8</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <jedis.version>2.9.0</jedis.version>
         <redisson.version>3.9.0</redisson.version>
     </properties>
